@@ -1,5 +1,18 @@
 # Superpowers
 
+> **Work in Progress — Personal Fork**
+>
+> This is my personal adaptation of Superpowers, tailored to my own development needs. I'm continuously uploading and improving the agents with a focus on:
+>
+> - **Agentic development team** — a collaborative multi-agent setup designed to assist in ML and AI solution development
+> - **MLOps & CI/CD specialization** — agents tuned for AWS-based MLOps pipelines and infrastructure workflows
+> - **Clean Architecture + SOLID for ML/AI** — code generation and review that enforces clean architecture and SOLID principles adapted to the unique demands of ML and AI projects, making codebases scalable, extensible, understandable, and maintainable
+> - **Bridging two worlds** — the result of ongoing research into how to bring the best of traditional software engineering standards into ML and AI solution development
+>
+> If you're looking for the original project, visit [obra/superpowers](https://github.com/obra/superpowers).
+
+---
+
 Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
 
 ## Quickstart
