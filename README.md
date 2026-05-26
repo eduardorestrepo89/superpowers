@@ -1,5 +1,24 @@
 # Superpowers
 
+## ⚠️ Philosophy: Assistance, Not Abdication
+
+**This system is built to assist programmers — not to replace their understanding.**
+
+I'm a developer leading an engineering team, and I've defined the following rule that applies to everyone on the team, including myself: **no one is allowed to blindly vibe-code with agents.** Every piece of AI-generated code must be reviewed, understood, and consciously approved by the developer responsible for it.
+
+Agents are powerful, but power without awareness is how you end up with codebases nobody understands, bugs nobody can trace, and architectural decisions nobody can explain or defend.
+
+**What this means in practice:**
+
+- You must understand *what* the agent is proposing and *why* before accepting it
+- You are accountable for the code that lands in the repo — "the agent wrote it" is not an explanation
+- Use the agents to move faster and think more clearly, not to avoid thinking
+- If you can't explain a generated change to a colleague, it doesn't merge
+
+The agents in this repo are designed to keep you in the loop at every step: they ask questions, surface trade-offs, and show their reasoning. That's not bureaucracy — that's the point.
+
+---
+
 > **Work in Progress — Personal Fork**
 >
 > This is my personal adaptation of Superpowers, tailored to my own development needs. I'm continuously uploading and improving the agents with a focus on:
